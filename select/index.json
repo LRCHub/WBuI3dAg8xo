@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "B",
+  "base_artist": "10",
+  "createdAt": "2026-01-04T02:23:44.694141Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Planet B - Live in London ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Planet_B_-_Live_in_London_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Planet B",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Planet_B_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Planet B",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Planet_B_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Planet B (Live in London '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Planet_B_(Live_in_London_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "B-B-B-Burnin' Up With Love",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/05_B-B-B-Burnin'_Up_With_Love_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "B.Y.H.B.",
+      "artist": "Uncle Ezra Ray",
+      "has_synced": true,
+      "path": "select/06_B.Y.H.B._Uncle_Ezra_Ray.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Johnny B. Goode",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/07_Johnny_B._Goode_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Music City Queen (feat. The B-52's)",
+      "artist": "Miranda Lambert feat. The B-52's",
+      "has_synced": true,
+      "path": "select/08_Music_City_Queen_(feat._The_B-52's)_Miranda_Lambert_feat._The_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "T-R-O-U-B-L-E",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/09_T-R-O-U-B-L-E_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "T-R-O-U-B-L-E (Remastered LP Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/10_T-R-O-U-B-L-E_(Remastered_LP_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tired Of Being Johnny B. Good",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": false,
+      "path": "select/11_Tired_Of_Being_Johnny_B._Good_Hank_Williams,_Jr..txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "B&C (Album Version)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/12_B&C_(Album_Version)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "B&C -Album Version-",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/13_B&C_-Album_Version-_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆) [Acoustic R&B Version]",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/14_별별별_(☆★☆)_[Acoustic_R&B_Version]_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "별별별 (☆★☆) (Acoustic R&B Ver.)",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/15_별별별_(☆★☆)_(Acoustic_R&B_Ver.)_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blood Reign ft. DiamondBack, Louis Logic and B.A. Barakus",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/16_Blood_Reign_ft._DiamondBack,_Louis_Logic_and_B.A._Barakus_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "DA GODZ MUS B KRAZY",
+      "artist": "Die Antwoord",
+      "has_synced": false,
+      "path": "select/17_DA_GODZ_MUS_B_KRAZY_Die_Antwoord.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Breed",
+      "artist": "10-FEET",
+      "has_synced": false,
+      "path": "select/pl_01_Breed_10-FEET.txt"
+    }
+  ]
+}
