@@ -1,0 +1,19 @@
+# 10 – B
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I don't care if I'm old
+I don't mind if I don't have a mind
+Get away, get away from your home
+I'm afraid, I'm afraid of a ghost
+Even if you have
+Even if you need
+I don't even care
+We don't have to breed
+We could plant a house
+We could build a tree
+I don't even care
+We could have all three
+She said
+```
